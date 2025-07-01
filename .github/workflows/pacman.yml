@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -23,6 +23,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Stefina-11
+          background_color: "#000000"  # <-- set background color to black
 
       - name: Show files after generation
         run: ls -laR
