@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,11 +19,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate pacman-contribution-graph.svg with dark grid
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Stefina-11
-          background_color: "#000000"  # <-- set background color to black
+          background_color: "#000000"      # Black background
+          color: "#000000"                 # Grid/box color (force black overlay)
 
       - name: Show files after generation
         run: ls -laR
@@ -40,3 +41,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
