@@ -111,7 +111,7 @@
 
 ### 👀 Profile Viewers
 <div align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Stefina-11.Stefina-11" alt="Profile Viewers" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Stefina-11.Stefina-11" />
 </div>
 
 ---
