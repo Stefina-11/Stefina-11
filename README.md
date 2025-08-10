@@ -4,18 +4,18 @@
 ---
 
 ### 🧑‍💻 About Me  
-🎨 I find peace in sketching  
-🧠 Quick learner  
-📺 Binge-watching series on weekends  
-🔄 Always learning and evolving myself  
-🎯 Focused, curious, and always up for a challenge
+- I find peace in sketching  
+- Quick learner  
+- Binge-watching series on weekends  
+- Always learning and evolving myself  
+- Focused, curious, and always up for a challenge
 
 ---
 
 ### 📚 Education  
-🎓 **Crescent Institute of Science and Technology** (2023 – 2027)  
+**Crescent Institute of Science and Technology** (2023 – 2027)  
 ▸ CGPA: **9.32**  
-🏫 **St. Mary's Matric Hr. Sec. School** (11th & 12th)  
+**St. Mary's Matric Hr. Sec. School** (11th & 12th)  
 ▸ Percentage: **79%**
 
 ---
@@ -111,7 +111,10 @@
 
 ### 👀 Profile Viewers
 <div align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Stefina-11.Stefina-11" />
+  <div style="display: flex; border-radius: 5px; overflow: hidden; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
+    <div style="background-color: #555; color: white; padding: 5px 10px; font-family: Arial, sans-serif; font-size: 14px; display: flex; align-items: center; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Profile views</div>
+    <div style="background-color: #007bff; color: white; padding: 5px 10px; font-family: Arial, sans-serif; font-size: 14px; display: flex; align-items: center; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">1,234</div>
+  </div>
 </div>
 
 ---
