@@ -1,5 +1,5 @@
 ## Hey there, I'm Stefina! 👋 
-**Aspiring AI Engineer | Machine Learning & NLP Enthusiast | Deep Learning Explorer**
+**Aspiring AI Engineer | Machine Learning & NLP Enthusiast | Deep Learning & GenAi Explorer**
 
 ---
 
@@ -51,9 +51,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+</div>
+
+---
+
+### 🛠 Developer Toolkit
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" height="35" alt="Hugging Face" />
 </div>
 
 ---
@@ -64,13 +81,9 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="Keras" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" height="35" alt="LangChain" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" height="35" alt="LlamaIndex" />
 </div>
 
 ---
@@ -96,6 +109,13 @@
 
 ---
 
+### 👀 Profile Viewers
+<div align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Stefina-11.Stefina-11" alt="Profile Viewers" />
+</div>
+
+---
+
 ### ⏳ Contribution Timeline  
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Stefina-11/Stefina-11/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Stefina-11/Stefina-11/output/pacman-contribution-graph.svg?theme=dark" alt="Pacman Contribution Graph" />
