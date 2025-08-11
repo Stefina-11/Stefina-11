@@ -98,14 +98,3 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
-
-### 👀 Profile Viewers
-***
-<div align="left">
-  <img src="https://hits.seeyou.space/hitcount?username=Stefina-11&theme=dracula" alt="Profile views" />
-</div>
-
-### ⏳ Contribution Timeline
-***
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Stefina-11/Stefina-11/output/pacman-contribution-graph.svg?theme=dark" alt="Pacman Contribution Graph" />
