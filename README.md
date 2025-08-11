@@ -1,34 +1,30 @@
 ## Hey there, I'm Stefina! 👋 
 **Aspiring AI Engineer | Machine Learning & NLP Enthusiast | Deep Learning & GenAi Explorer**
 
----
-
-### 🧑‍💻 About Me  
-- I find peace in sketching  
-- Quick learner  
-- Binge-watching series on weekends  
-- Always learning and evolving myself  
+### 🧑‍💻 About Me
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
+- I find peace in sketching
+- Quick learner
+- Binge-watching series on weekends
+- Always learning and evolving myself
 - Focused, curious, and always up for a challenge
 
----
-
-### 📚 Education  
+### 📚 Education
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 **Crescent Institute of Science and Technology** (2023 – 2027)  
 ▸ CGPA: **9.32**  
 **St. Mary's Matric Hr. Sec. School** (11th & 12th)  
 ▸ Percentage: **79%**
 
----
-
 ### 📊 My Stats
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stefina-11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefina-11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
-
 ### 🏆 GitHub Achievements
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Stefina-11&theme=dracula&title=MultiLanguage,Stars,Commits,Followers,Repositories,PullRequest,Issues,Reviews,Experience" alt="GitHub Achievements" />
 </div>
@@ -37,9 +33,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
----
-
 ### 🛠️ Tech Stack
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -56,9 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </div>
 
----
-
 ### 🛠 Developer Toolkit
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
@@ -73,9 +67,8 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" height="35" alt="Hugging Face" />
 </div>
 
----
-
 ### 🧠 Core AI/ML Toolkits
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img width="20" />
@@ -86,9 +79,8 @@
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" height="35" alt="LlamaIndex" />
 </div>
 
----
-
 ### 🌐 Connect With Me
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 <div align="left">
   <a href="https://www.instagram.com/stefina._.1109/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -107,18 +99,14 @@
   </a>
 </div>
 
----
-
 ### 👀 Profile Viewers
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 <div align="left">
-  <div style="display: flex; border-radius: 5px; overflow: hidden; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
-    <div style="background-color: #555; color: white; padding: 5px 10px; font-family: Arial, sans-serif; font-size: 14px; display: flex; align-items: center; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Profile views</div>
-    <div style="background-color: #007bff; color: white; padding: 5px 10px; font-family: Arial, sans-serif; font-size: 14px; display: flex; align-items: center; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">1,234</div>
-  </div>
+  <p>This profile has been viewed <span id="viewer-count">X</span> times.</p>
+  <p><em>Note: A dynamic viewer count requires server-side logic or a third-party service (e.g., GitHub Actions with a counter API). This is a static placeholder.</em></p>
 </div>
 
----
-
-### ⏳ Contribution Timeline  
+### ⏳ Contribution Timeline
+<div style="height: 2px; background-color: #555; margin-top: 0px; margin-bottom: 0px;"></div>
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Stefina-11/Stefina-11/output/pacman-contribution-graph.svg?theme=dark" alt="Pacman Contribution Graph" />
