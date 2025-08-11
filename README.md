@@ -11,10 +11,10 @@
 
 ### 📚 Education
 ***
-**Crescent Institute of Science and Technology** (2023 – 2027)
-▸ CGPA: **9.32**
-**St. Mary's Matric Hr. Sec. School** (11th & 12th)  
-▸ Percentage: **79%**
+Crescent Institute of Science and Technology (2023 – 2027)
+CGPA: 9.32
+St. Mary's Matric Hr. Sec. School (11th & 12th)
+Percentage: 79%
 
 ### 📊 My Stats
 ***
