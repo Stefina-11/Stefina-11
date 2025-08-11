@@ -102,8 +102,7 @@
 ### 👀 Profile Viewers
 ***
 <div align="left">
-  <p>This profile has been viewed <span id="viewer-count">X</span> times.</p>
-  <p><em>Note: A dynamic viewer count requires server-side logic or a third-party service (e.g., GitHub Actions with a counter API). This is a static placeholder.</em></p>
+  <img src="https://hits.seeyou.space/hitcount?username=Stefina-11&theme=dracula" alt="Profile views" />
 </div>
 
 ### ⏳ Contribution Timeline
